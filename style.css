@@ -1,0 +1,158 @@
+/*Отступ*/
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: linear-gradient(to left, #3b1d60, #040d3e);
+}
+.div_main {
+  margin: 0px auto;
+  width: 85%;
+}
+.header_padding {
+  margin-top: 80px;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  font-family: "Rubik", sans-serif;
+  font-size: 15px;
+  justify-content: space-between;
+}
+.menu_item {
+  margin-left: 30px;
+}
+
+.menu_item a {
+  margin-left: 30px;
+  text-decoration: none;
+  color: #b5b5b5;
+  letter-spacing: 2px;
+}
+
+.header_but {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav__header {
+  display: flex;
+  justify-content: space-between;
+  letter-spacing: 2px;
+}
+
+.header_but a {
+  border-radius: 4px;
+  text-decoration: none;
+  color: #f2994a;
+  padding: 8px 27px;
+  border: 1px solid #f2994a;
+  margin: 0px 20px 0px;
+  font-family: "Rubik", sans-serif;
+  transition: all 0.2s linear;
+}
+
+.sing_in a:hover {
+  color: #ffffff;
+  background: #f2994a;
+  box-shadow: -11.09px 18.13px 36.6483px rgba(242, 153, 74, 0.13);
+}
+
+.sing_up a {
+  color: #ffffff;
+  background: #f2994a;
+  box-shadow: -11.09px 18.13px 36.6483px rgba(242, 153, 74, 0.13);
+}
+.sing_up a:hover {
+  background: none;
+  color: #f2994a;
+}
+/*=======================
+    Under header
+========================== */
+.under__header {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 105px 11px 0px;
+}
+.left__bar {
+  height: 439px;
+  width: 540px;
+}
+.main__logo {
+  width: 530px;
+  height: 150px;
+  margin-top: 30px;
+  font-size: 44px;
+  line-height: 50px;
+  color: #99efd0;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+}
+.under__logo {
+  width: 470px;
+  height: 44px;
+  margin-top: 19px;
+  font-size: 18px;
+  line-height: 22px;
+  color: #8476aa;
+}
+.but {
+  margin-top: 40px;
+   
+}
+    .learn__mode {
+        padding: 13px 31px;
+        border-radius: 4px;
+        color: #ffffff;
+        background-color: #f2994a;
+        border: 1px solid #f2994a;
+        cursor: pointer;
+    }
+    .learn__mode:hover{
+
+    }
+    .demo {
+        padding: 13px 31px;
+        border-radius: 4px;
+        color: #f2994a;
+        background-color: transparent;
+        border: 1px solid #f2994a;
+        cursor: pointer;
+        margin-left: 20px;
+    }
+
+    
+.video {
+  display: flex;
+  flex-direction: row;
+  margin-top: 60px;
+  line-height: 22px;
+}
+.text__video {
+  width: 380px;
+  height: 44px;
+  margin-top: 5px;
+  margin-left: 20px;
+  color: #8476aa;
+  font-size: 16px;
+}
+.under__text {
+  color: #6d6d78;
+  font-size: 14px;
+}
+.img__human {
+}
+
+/* Логотипы */
+
+.logos__com {
+  display: flex;
+  flex-direction: row;
+  margin: 100px 0px 0px;
+}
+.logos__item {
+  margin: 0 74px;
+}
