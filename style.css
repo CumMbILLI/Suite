@@ -226,7 +226,7 @@ h5 {
 
 .logos__features {
   margin-top: 100px;
-  background-image: url("/img/background-img/back-feature.png");
+  background-image: url("./img/background-img/back-feature.png");
   background-position: center;
 }
 
@@ -322,7 +322,7 @@ h5 {
 ======================================================*/
 
 .card {
-  background-image: url(/img/background-img/back-2.png);
+  background-image: url(./img/background-img/back-2.png);
   background-repeat: no-repeat;
   background-position: top -100px left;
   padding-top: 180px;
@@ -379,7 +379,7 @@ h5 {
   flex-direction: column;
   align-items: center;
   padding-bottom: 350px;
-  background-image: url(/img/background-img/back-3.png);
+  background-image: url(./img/background-img/back-3.png);
   background-position: top 50px center;
 }
 
@@ -400,7 +400,7 @@ h5 {
 =======================================================*/
 
 .bet__back {
-  background-image: url(/img/background-img/back-4.png);
+  background-image: url(./img/background-img/back-4.png);
   background-repeat: no-repeat;
   background-position: right -20px top 15px;
   background-size: 900px;
@@ -570,7 +570,7 @@ h5 {
 
 .help__back {
   margin-top: 100px;
-  background-image: url(/img/background-img/back-5.png);
+  background-image: url(./img/background-img/back-5.png);
   background-repeat: no-repeat;
   background-position: right center;
 }
@@ -621,7 +621,7 @@ h5 {
 .feedback__back {
   height: 450px;
   margin-top: 150px;
-  background-image: url(/img/background-img/back-6.png);
+  background-image: url(./img/background-img/back-6.png);
   background-position: center;
   display: flex;
   justify-content: center;
@@ -706,7 +706,7 @@ input::placeholder {
 .foot__back {
   margin-top: 130px;
   padding-top: 50px;
-  background-image: url(/img/background-img/back-7.png);
+  background-image: url(./img/background-img/back-7.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
